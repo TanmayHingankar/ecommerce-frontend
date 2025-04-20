@@ -38,9 +38,7 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 - Order history and tracking.
 - Admin panel to manage products, categories, and orders.
 
-## Demo
 
-[shopwithzosh](https://shopwithzosh.vercel.app/)
 
 ## Technologies Used
 
@@ -77,9 +75,7 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 List the available API endpoints along with their descriptions and the necessary request and response formats.
 
-Example:
 
-[Checkout All Endpoints Here...](https://e-commerce-server-production-0873.up.railway.app/swagger-ui/index.html)
 
 ## Contributing
 
@@ -89,13 +85,6 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact me:
-
-- Ashok Zarmariya
-- ashokzarmariya47@gmail.com
-- [Linkedin](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
 
 Feel free to customize the README to include more specific information about your project. Good luck with your eCommerce full-stack application!
 
